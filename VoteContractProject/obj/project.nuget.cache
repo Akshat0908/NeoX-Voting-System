@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ti1mjNlP59k=",
+  "success": true,
+  "projectFilePath": "/Users/akshatagrawal/Desktop/neo/VoteContractProject/VoteContractProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/akshatagrawal/.nuget/packages/neo.smartcontract.framework/3.7.4/neo.smartcontract.framework.3.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
